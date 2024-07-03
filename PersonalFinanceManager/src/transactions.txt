@@ -1,0 +1,2 @@
+2024-04-03,Biryani,300.0,expense
+2023-04-03,Food,1000.0,expense
